@@ -5,7 +5,7 @@ VALUES
 ('Misc'),
 ('Operations');
 
-INSERT INTO role (title, salary, department_id)
+INSERT INTO role (title, pay, department_id)
 VALUES
 ('Full Stack Developer', 80000, 1),
 ('Software Engineer', 120000, 1),
